@@ -7,7 +7,7 @@ How to use:
 python [ScriptGoesHere] [FolderPathforFilesHere]
 
 Example:
-Extract: python REMGSExtractor.py C:\ResidentEvil5TextData
+Extract: python REMGSExtractor.py C:\ResidentEvil5TextData<br/>
 Insert: python RE5MGSInseter.py C:\ResidentEvil5TextData
 
 Dependencies:
