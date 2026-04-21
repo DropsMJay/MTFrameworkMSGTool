@@ -1,0 +1,1 @@
+python REMGSExtractor.py FolderPathHere
